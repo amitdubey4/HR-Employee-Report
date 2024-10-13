@@ -1,5 +1,3 @@
-# HR-Employee-Report
-
 # HR-Dashboard-MySQL-PowerBI
 
 ## Data Used
